@@ -185,6 +185,7 @@ For more keyboard shortcuts, see the [CodeMirror documentation](https://codemirr
 {% ifversion fpt or ghes or ghae %}
 | Keyboard shortcut | Description
 |-----------|------------
+|<kbd>x</kbd> | Select notification
 |<kbd>e</kbd> | Mark as done
 | <kbd>shift + u</kbd>| Mark as unread
 | <kbd>shift + i</kbd>| Mark as read
